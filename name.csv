@@ -1,0 +1,202 @@
+"pmid","auth_id","name","author_type","initials","fore_name","last_name","suffix","orcid"
+"20199141","(20199141,1)","Masaki Kasai","Person","M","Masaki","Kasai",NULL,NULL
+"20199141","(20199141,2)","Takahiro Jikoh","Person","T","Takahiro","Jikoh",NULL,NULL
+"20199141","(20199141,3)","Hidefumi Fukumitsu","Person","H","Hidefumi","Fukumitsu",NULL,NULL
+"20199141","(20199141,4)","Shoei Furukawa","Person","S","Shoei","Furukawa",NULL,NULL
+"22734847","(22734847,1)","Matthew F Wszolek","Person","MF","Matthew F","Wszolek",NULL,NULL
+"22734847","(22734847,2)","David Canes","Person","D","David","Canes",NULL,NULL
+"22734847","(22734847,3)","Alireza Moinzadeh","Person","A","Alireza","Moinzadeh",NULL,NULL
+"22734847","(22734847,4)","Andrea Sorcini","Person","A","Andrea","Sorcini",NULL,NULL
+"22798243","(22798243,1)","Manuela Galli","Person","M","Manuela","Galli",NULL,NULL
+"22798243","(22798243,2)","Veronica Cimolin","Person","V","Veronica","Cimolin",NULL,NULL
+"22798243","(22798243,3)","Sara Vimercati","Person","S","Sara","Vimercati",NULL,NULL
+"22798243","(22798243,4)","Giorgio Albertini","Person","G","Giorgio","Albertini",NULL,NULL
+"22798243","(22798243,5)","Reinald Brunner","Person","R","Reinald","Brunner",NULL,NULL
+"22865575","(22865575,1)","Leonardo Ruggiero","Person","L","Leonardo","Ruggiero",NULL,NULL
+"22865575","(22865575,2)","Hugo Sol","Person","H","Hugo","Sol",NULL,NULL
+"22865575","(22865575,3)","Hichem Sahli","Person","H","Hichem","Sahli",NULL,NULL
+"22865575","(22865575,4)","Sigrid Adriaenssens","Person","S","Sigrid","Adriaenssens",NULL,NULL
+"22865575","(22865575,5)","Nele Adriaenssens","Person","N","Nele","Adriaenssens",NULL,NULL
+"23223012","(23223012,1)","Liang-Jen Wang","Person","LJ","Liang-Jen","Wang",NULL,NULL
+"23223012","(23223012,2)","Yu-Shu Huang","Person","YS","Yu-Shu","Huang",NULL,NULL
+"23223012","(23223012,3)","Cheng-Cheng Hsiao","Person","CC","Cheng-Cheng","Hsiao",NULL,NULL
+"23223012","(23223012,4)","Chih-Ken Chen","Person","CK","Chih-Ken","Chen",NULL,NULL
+"23404794","(23404794,1)","Carlos Sebastian Balestrini","Person","CS","Carlos Sebastian","Balestrini",NULL,NULL
+"23404794","(23404794,2)","Jos&Atilde;&copy; Federico Saaibi","Person","JF","Jos&Atilde;&copy; Federico","Saaibi",NULL,NULL
+"23404794","(23404794,3)","Santiago Navas Ortiz","Person","SN","Santiago Navas","Ortiz",NULL,NULL
+"23592528","(23592528,1)","Gilmar V Greque","Person","GV","Gilmar V","Greque",NULL,NULL
+"23592528","(23592528,10)","Roberto Kalil-Filho","Person","R","Roberto","Kalil-Filho",NULL,NULL
+"23592528","(23592528,2)","Carlos V Serrano","Person","CV","Carlos V","Serrano","Jr",NULL
+"23592528","(23592528,3)","C&Atilde;&copy;lia M Strunz","Person","CM","C&Atilde;&copy;lia M","Strunz",NULL,NULL
+"23592528","(23592528,4)","Alexandre Soeiro","Person","A","Alexandre","Soeiro",NULL,NULL
+"23592528","(23592528,5)","M&Atilde;&iexcl;rcio Santos","Person","M","M&Atilde;&iexcl;rcio","Santos",NULL,NULL
+"23592528","(23592528,6)","Fl&Atilde;&iexcl;vio Pivateli","Person","F","Fl&Atilde;&iexcl;vio","Pivateli",NULL,NULL
+"23592528","(23592528,7)","Jos&Atilde;&copy; Luis B Jacob","Person","JL","Jos&Atilde;&copy; Luis B","Jacob",NULL,NULL
+"23592528","(23592528,8)","Antonio Eduardo P Pesaro","Person","AE","Antonio Eduardo P","Pesaro",NULL,NULL
+"23592528","(23592528,9)","Jos&Atilde;&copy; Carlos Nicolau","Person","JC","Jos&Atilde;&copy; Carlos","Nicolau",NULL,NULL
+"23613222","(23613222,1)","Yusuke Watanabe","Person","Y","Yusuke","Watanabe",NULL,NULL
+"23613222","(23613222,10)","Erik Bouvier","Person","E","Erik","Bouvier",NULL,NULL
+"23613222","(23613222,11)","Bertrand Cormier","Person","B","Bertrand","Cormier",NULL,NULL
+"23613222","(23613222,12)","Marie-Claude Morice","Person","MC","Marie-Claude","Morice",NULL,NULL
+"23613222","(23613222,2)","Kentaro Hayashida","Person","K","Kentaro","Hayashida",NULL,NULL
+"23613222","(23613222,3)","Thierry Lef&Atilde;&uml;vre","Person","T","Thierry","Lef&Atilde;&uml;vre",NULL,NULL
+"23613222","(23613222,4)","Bernard Chevalier","Person","B","Bernard","Chevalier",NULL,NULL
+"23613222","(23613222,5)","Thomas Hovasse","Person","T","Thomas","Hovasse",NULL,NULL
+"23613222","(23613222,6)","Mauro Romano","Person","M","Mauro","Romano",NULL,NULL
+"23613222","(23613222,7)","Philippe Garot","Person","P","Philippe","Garot",NULL,NULL
+"23613222","(23613222,8)","Arnaud Farge","Person","A","Arnaud","Farge",NULL,NULL
+"23613222","(23613222,9)","Patrick Donzeau-Gouge","Person","P","Patrick","Donzeau-Gouge",NULL,NULL
+"23625458","(23625458,1)","Reuben Ilia","Person","R","Reuben","Ilia",NULL,NULL
+"23625458","(23625458,2)","Jean Marc Weinstein","Person","JM","Jean Marc","Weinstein",NULL,NULL
+"23625458","(23625458,3)","Arik Wolak","Person","A","Arik","Wolak",NULL,NULL
+"23625458","(23625458,4)","Harel Gilutz","Person","H","Harel","Gilutz",NULL,NULL
+"23625458","(23625458,5)","Carlos Cafri","Person","C","Carlos","Cafri",NULL,NULL
+"23640781","(23640781,1)","N Vinurel","Person","N","N","Vinurel",NULL,NULL
+"23640781","(23640781,10)","V des Portes","Person","V","V","des Portes",NULL,NULL
+"23640781","(23640781,11)","L Guibaud","Person","L","L","Guibaud",NULL,NULL
+"23640781","(23640781,2)","A Van Nieuwenhuyse","Person","A","A","Van Nieuwenhuyse",NULL,NULL
+"23640781","(23640781,3)","M Cagneaux","Person","M","M","Cagneaux",NULL,NULL
+"23640781","(23640781,4)","C Garel","Person","C","C","Garel",NULL,NULL
+"23640781","(23640781,5)","E Quarello","Person","E","E","Quarello",NULL,NULL
+"23640781","(23640781,6)","M Brasseur","Person","M","M","Brasseur",NULL,NULL
+"23640781","(23640781,7)","O Picone","Person","O","O","Picone",NULL,NULL
+"23640781","(23640781,8)","M Ferry","Person","M","M","Ferry",NULL,NULL
+"23640781","(23640781,9)","P Gaucherand","Person","P","P","Gaucherand",NULL,NULL
+"23671019","(23671019,1)","Z Leibovitz","Person","Z","Z","Leibovitz",NULL,NULL
+"23671019","(23671019,2)","K K Haratz","Person","KK","K K","Haratz",NULL,NULL
+"23671019","(23671019,3)","G Malinger","Person","G","G","Malinger",NULL,NULL
+"23671019","(23671019,4)","I Shapiro","Person","I","I","Shapiro",NULL,NULL
+"23671019","(23671019,5)","C Pressman","Person","C","C","Pressman",NULL,NULL
+"23703939","(23703939,1)","B Stoelinga","Person","B","B","Stoelinga",NULL,NULL
+"23703939","(23703939,2)","W J K Hehenkamp","Person","WJ","W J K","Hehenkamp",NULL,NULL
+"23703939","(23703939,3)","H A M Br&Atilde;&para;lmann","Person","HA","H A M","Br&Atilde;&para;lmann",NULL,NULL
+"23703939","(23703939,4)","J A F Huirne","Person","JA","J A F","Huirne",NULL,NULL
+"23720060","(23720060,1)","Isabella Zhang","Person","I","Isabella","Zhang",NULL,NULL
+"23720060","(23720060,2)","Nicholas G Zaorsky","Person","NG","Nicholas G","Zaorsky",NULL,NULL
+"23720060","(23720060,3)","John A Abraham","Person","JA","John A","Abraham",NULL,NULL
+"23720060","(23720060,4)","Madalina Tuluc","Person","M","Madalina","Tuluc",NULL,NULL
+"23720060","(23720060,5)","Joseph M Curry","Person","JM","Joseph M","Curry",NULL,NULL
+"23720060","(23720060,6)","Voichita Bar-Ad","Person","V","Voichita","Bar-Ad",NULL,NULL
+"23725211","(23725211,1)","Zahra Niki Boroujeni","Person","ZN","Zahra Niki","Boroujeni",NULL,NULL
+"23725211","(23725211,2)","Ahmad Aleyasin","Person","A","Ahmad","Aleyasin",NULL,NULL
+"23733351","(23733351,1)","Yu-Duan Tsai","Person","YD","Yu-Duan","Tsai",NULL,NULL
+"23733351","(23733351,10)","Jer-Yiing Houng","Person","JY","Jer-Yiing","Houng",NULL,NULL
+"23733351","(23733351,2)","Chao-Ping Wang","Person","CP","Chao-Ping","Wang",NULL,NULL
+"23733351","(23733351,3)","Chih-Yu Chen","Person","CY","Chih-Yu","Chen",NULL,NULL
+"23733351","(23733351,4)","Li-Wen Lin","Person","LW","Li-Wen","Lin",NULL,NULL
+"23733351","(23733351,5)","Tzer-Zen Hwang","Person","TZ","Tzer-Zen","Hwang",NULL,NULL
+"23733351","(23733351,6)","Li-Fen Lu","Person","LF","Li-Fen","Lu",NULL,NULL
+"23733351","(23733351,7)","Hsia-Fen Hsu","Person","HF","Hsia-Fen","Hsu",NULL,NULL
+"23733351","(23733351,8)","Fu-Mei Chung","Person","FM","Fu-Mei","Chung",NULL,NULL
+"23733351","(23733351,9)","Yau-Jiunn Lee","Person","YJ","Yau-Jiunn","Lee",NULL,NULL
+"23733531","(23733531,1)","B Adiego","Person","B","B","Adiego",NULL,NULL
+"23733531","(23733531,2)","P Martinez-Ten","Person","P","P","Martinez-Ten",NULL,NULL
+"23733531","(23733531,3)","T Illescas","Person","T","T","Illescas",NULL,NULL
+"23733531","(23733531,4)","C Bermejo","Person","C","C","Bermejo",NULL,NULL
+"23733531","(23733531,5)","W Sepulveda","Person","W","W","Sepulveda",NULL,NULL
+"23733708","(23733708,1)","Yoon Se Lee","Person","YS","Yoon Se","Lee",NULL,NULL
+"23733708","(23733708,2)","Sung-Chan Shin","Person","SC","Sung-Chan","Shin",NULL,NULL
+"23733708","(23733708,3)","Yun-Sung Lim","Person","YS","Yun-Sung","Lim",NULL,NULL
+"23733708","(23733708,4)","Jin-Choon Lee","Person","JC","Jin-Choon","Lee",NULL,NULL
+"23733708","(23733708,5)","Soo-Geun Wang","Person","SG","Soo-Geun","Wang",NULL,NULL
+"pmid","auth_id","name","author_type","initials","fore_name","last_name","suffix","orcid"
+"20199141","(20199141,1)","Masaki Kasai","Person","M","Masaki","Kasai",NULL,NULL
+"20199141","(20199141,2)","Takahiro Jikoh","Person","T","Takahiro","Jikoh",NULL,NULL
+"20199141","(20199141,3)","Hidefumi Fukumitsu","Person","H","Hidefumi","Fukumitsu",NULL,NULL
+"20199141","(20199141,4)","Shoei Furukawa","Person","S","Shoei","Furukawa",NULL,NULL
+"22734847","(22734847,1)","Matthew F Wszolek","Person","MF","Matthew F","Wszolek",NULL,NULL
+"22734847","(22734847,2)","David Canes","Person","D","David","Canes",NULL,NULL
+"22734847","(22734847,3)","Alireza Moinzadeh","Person","A","Alireza","Moinzadeh",NULL,NULL
+"22734847","(22734847,4)","Andrea Sorcini","Person","A","Andrea","Sorcini",NULL,NULL
+"22798243","(22798243,1)","Manuela Galli","Person","M","Manuela","Galli",NULL,NULL
+"22798243","(22798243,2)","Veronica Cimolin","Person","V","Veronica","Cimolin",NULL,NULL
+"22798243","(22798243,3)","Sara Vimercati","Person","S","Sara","Vimercati",NULL,NULL
+"22798243","(22798243,4)","Giorgio Albertini","Person","G","Giorgio","Albertini",NULL,NULL
+"22798243","(22798243,5)","Reinald Brunner","Person","R","Reinald","Brunner",NULL,NULL
+"22865575","(22865575,1)","Leonardo Ruggiero","Person","L","Leonardo","Ruggiero",NULL,NULL
+"22865575","(22865575,2)","Hugo Sol","Person","H","Hugo","Sol",NULL,NULL
+"22865575","(22865575,3)","Hichem Sahli","Person","H","Hichem","Sahli",NULL,NULL
+"22865575","(22865575,4)","Sigrid Adriaenssens","Person","S","Sigrid","Adriaenssens",NULL,NULL
+"22865575","(22865575,5)","Nele Adriaenssens","Person","N","Nele","Adriaenssens",NULL,NULL
+"23223012","(23223012,1)","Liang-Jen Wang","Person","LJ","Liang-Jen","Wang",NULL,NULL
+"23223012","(23223012,2)","Yu-Shu Huang","Person","YS","Yu-Shu","Huang",NULL,NULL
+"23223012","(23223012,3)","Cheng-Cheng Hsiao","Person","CC","Cheng-Cheng","Hsiao",NULL,NULL
+"23223012","(23223012,4)","Chih-Ken Chen","Person","CK","Chih-Ken","Chen",NULL,NULL
+"23404794","(23404794,1)","Carlos Sebastian Balestrini","Person","CS","Carlos Sebastian","Balestrini",NULL,NULL
+"23404794","(23404794,2)","Jos&Atilde;&copy; Federico Saaibi","Person","JF","Jos&Atilde;&copy; Federico","Saaibi",NULL,NULL
+"23404794","(23404794,3)","Santiago Navas Ortiz","Person","SN","Santiago Navas","Ortiz",NULL,NULL
+"23592528","(23592528,1)","Gilmar V Greque","Person","GV","Gilmar V","Greque",NULL,NULL
+"23592528","(23592528,10)","Roberto Kalil-Filho","Person","R","Roberto","Kalil-Filho",NULL,NULL
+"23592528","(23592528,2)","Carlos V Serrano","Person","CV","Carlos V","Serrano","Jr",NULL
+"23592528","(23592528,3)","C&Atilde;&copy;lia M Strunz","Person","CM","C&Atilde;&copy;lia M","Strunz",NULL,NULL
+"23592528","(23592528,4)","Alexandre Soeiro","Person","A","Alexandre","Soeiro",NULL,NULL
+"23592528","(23592528,5)","M&Atilde;&iexcl;rcio Santos","Person","M","M&Atilde;&iexcl;rcio","Santos",NULL,NULL
+"23592528","(23592528,6)","Fl&Atilde;&iexcl;vio Pivateli","Person","F","Fl&Atilde;&iexcl;vio","Pivateli",NULL,NULL
+"23592528","(23592528,7)","Jos&Atilde;&copy; Luis B Jacob","Person","JL","Jos&Atilde;&copy; Luis B","Jacob",NULL,NULL
+"23592528","(23592528,8)","Antonio Eduardo P Pesaro","Person","AE","Antonio Eduardo P","Pesaro",NULL,NULL
+"23592528","(23592528,9)","Jos&Atilde;&copy; Carlos Nicolau","Person","JC","Jos&Atilde;&copy; Carlos","Nicolau",NULL,NULL
+"23613222","(23613222,1)","Yusuke Watanabe","Person","Y","Yusuke","Watanabe",NULL,NULL
+"23613222","(23613222,10)","Erik Bouvier","Person","E","Erik","Bouvier",NULL,NULL
+"23613222","(23613222,11)","Bertrand Cormier","Person","B","Bertrand","Cormier",NULL,NULL
+"23613222","(23613222,12)","Marie-Claude Morice","Person","MC","Marie-Claude","Morice",NULL,NULL
+"23613222","(23613222,2)","Kentaro Hayashida","Person","K","Kentaro","Hayashida",NULL,NULL
+"23613222","(23613222,3)","Thierry Lef&Atilde;&uml;vre","Person","T","Thierry","Lef&Atilde;&uml;vre",NULL,NULL
+"23613222","(23613222,4)","Bernard Chevalier","Person","B","Bernard","Chevalier",NULL,NULL
+"23613222","(23613222,5)","Thomas Hovasse","Person","T","Thomas","Hovasse",NULL,NULL
+"23613222","(23613222,6)","Mauro Romano","Person","M","Mauro","Romano",NULL,NULL
+"23613222","(23613222,7)","Philippe Garot","Person","P","Philippe","Garot",NULL,NULL
+"23613222","(23613222,8)","Arnaud Farge","Person","A","Arnaud","Farge",NULL,NULL
+"23613222","(23613222,9)","Patrick Donzeau-Gouge","Person","P","Patrick","Donzeau-Gouge",NULL,NULL
+"23625458","(23625458,1)","Reuben Ilia","Person","R","Reuben","Ilia",NULL,NULL
+"23625458","(23625458,2)","Jean Marc Weinstein","Person","JM","Jean Marc","Weinstein",NULL,NULL
+"23625458","(23625458,3)","Arik Wolak","Person","A","Arik","Wolak",NULL,NULL
+"23625458","(23625458,4)","Harel Gilutz","Person","H","Harel","Gilutz",NULL,NULL
+"23625458","(23625458,5)","Carlos Cafri","Person","C","Carlos","Cafri",NULL,NULL
+"23640781","(23640781,1)","N Vinurel","Person","N","N","Vinurel",NULL,NULL
+"23640781","(23640781,10)","V des Portes","Person","V","V","des Portes",NULL,NULL
+"23640781","(23640781,11)","L Guibaud","Person","L","L","Guibaud",NULL,NULL
+"23640781","(23640781,2)","A Van Nieuwenhuyse","Person","A","A","Van Nieuwenhuyse",NULL,NULL
+"23640781","(23640781,3)","M Cagneaux","Person","M","M","Cagneaux",NULL,NULL
+"23640781","(23640781,4)","C Garel","Person","C","C","Garel",NULL,NULL
+"23640781","(23640781,5)","E Quarello","Person","E","E","Quarello",NULL,NULL
+"23640781","(23640781,6)","M Brasseur","Person","M","M","Brasseur",NULL,NULL
+"23640781","(23640781,7)","O Picone","Person","O","O","Picone",NULL,NULL
+"23640781","(23640781,8)","M Ferry","Person","M","M","Ferry",NULL,NULL
+"23640781","(23640781,9)","P Gaucherand","Person","P","P","Gaucherand",NULL,NULL
+"23671019","(23671019,1)","Z Leibovitz","Person","Z","Z","Leibovitz",NULL,NULL
+"23671019","(23671019,2)","K K Haratz","Person","KK","K K","Haratz",NULL,NULL
+"23671019","(23671019,3)","G Malinger","Person","G","G","Malinger",NULL,NULL
+"23671019","(23671019,4)","I Shapiro","Person","I","I","Shapiro",NULL,NULL
+"23671019","(23671019,5)","C Pressman","Person","C","C","Pressman",NULL,NULL
+"23703939","(23703939,1)","B Stoelinga","Person","B","B","Stoelinga",NULL,NULL
+"23703939","(23703939,2)","W J K Hehenkamp","Person","WJ","W J K","Hehenkamp",NULL,NULL
+"23703939","(23703939,3)","H A M Br&Atilde;&para;lmann","Person","HA","H A M","Br&Atilde;&para;lmann",NULL,NULL
+"23703939","(23703939,4)","J A F Huirne","Person","JA","J A F","Huirne",NULL,NULL
+"23720060","(23720060,1)","Isabella Zhang","Person","I","Isabella","Zhang",NULL,NULL
+"23720060","(23720060,2)","Nicholas G Zaorsky","Person","NG","Nicholas G","Zaorsky",NULL,NULL
+"23720060","(23720060,3)","John A Abraham","Person","JA","John A","Abraham",NULL,NULL
+"23720060","(23720060,4)","Madalina Tuluc","Person","M","Madalina","Tuluc",NULL,NULL
+"23720060","(23720060,5)","Joseph M Curry","Person","JM","Joseph M","Curry",NULL,NULL
+"23720060","(23720060,6)","Voichita Bar-Ad","Person","V","Voichita","Bar-Ad",NULL,NULL
+"23725211","(23725211,1)","Zahra Niki Boroujeni","Person","ZN","Zahra Niki","Boroujeni",NULL,NULL
+"23725211","(23725211,2)","Ahmad Aleyasin","Person","A","Ahmad","Aleyasin",NULL,NULL
+"23733351","(23733351,1)","Yu-Duan Tsai","Person","YD","Yu-Duan","Tsai",NULL,NULL
+"23733351","(23733351,10)","Jer-Yiing Houng","Person","JY","Jer-Yiing","Houng",NULL,NULL
+"23733351","(23733351,2)","Chao-Ping Wang","Person","CP","Chao-Ping","Wang",NULL,NULL
+"23733351","(23733351,3)","Chih-Yu Chen","Person","CY","Chih-Yu","Chen",NULL,NULL
+"23733351","(23733351,4)","Li-Wen Lin","Person","LW","Li-Wen","Lin",NULL,NULL
+"23733351","(23733351,5)","Tzer-Zen Hwang","Person","TZ","Tzer-Zen","Hwang",NULL,NULL
+"23733351","(23733351,6)","Li-Fen Lu","Person","LF","Li-Fen","Lu",NULL,NULL
+"23733351","(23733351,7)","Hsia-Fen Hsu","Person","HF","Hsia-Fen","Hsu",NULL,NULL
+"23733351","(23733351,8)","Fu-Mei Chung","Person","FM","Fu-Mei","Chung",NULL,NULL
+"23733351","(23733351,9)","Yau-Jiunn Lee","Person","YJ","Yau-Jiunn","Lee",NULL,NULL
+"23733531","(23733531,1)","B Adiego","Person","B","B","Adiego",NULL,NULL
+"23733531","(23733531,2)","P Martinez-Ten","Person","P","P","Martinez-Ten",NULL,NULL
+"23733531","(23733531,3)","T Illescas","Person","T","T","Illescas",NULL,NULL
+"23733531","(23733531,4)","C Bermejo","Person","C","C","Bermejo",NULL,NULL
+"23733531","(23733531,5)","W Sepulveda","Person","W","W","Sepulveda",NULL,NULL
+"23733708","(23733708,1)","Yoon Se Lee","Person","YS","Yoon Se","Lee",NULL,NULL
+"23733708","(23733708,2)","Sung-Chan Shin","Person","SC","Sung-Chan","Shin",NULL,NULL
+"23733708","(23733708,3)","Yun-Sung Lim","Person","YS","Yun-Sung","Lim",NULL,NULL
+"23733708","(23733708,4)","Jin-Choon Lee","Person","JC","Jin-Choon","Lee",NULL,NULL
+"23733708","(23733708,5)","Soo-Geun Wang","Person","SG","Soo-Geun","Wang",NULL,NULL
